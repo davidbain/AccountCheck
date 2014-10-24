@@ -1,0 +1,3 @@
+****** Account details should be on a single line, however this is not essential. Delete this message after production. *****
+example@website.com
+example2@website.co.uk
